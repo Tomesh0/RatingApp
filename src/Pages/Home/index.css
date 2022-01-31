@@ -1,0 +1,9 @@
+.align {
+    display: inline;
+}
+.wrapper{
+    background-color: white;
+}
+input:focus{
+    background-color: gray;
+}
